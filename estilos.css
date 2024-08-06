@@ -1,0 +1,113 @@
+@charset "utf-8";
+.CUERPO .CABEZERA .LOGO {
+    background-color: #FFD493;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    width: 30%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    clear: left;
+    float: right;
+}
+.CUERPO .CABEZERA .MENU {
+    width: 65%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: left;
+    float: right;
+}
+.contenido .Paralax p {
+    color: #4F3314;
+    font-size: x-large;
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    background-color: #FFFFFF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.CUERPO .contenido .Paralax {
+    width: 100%;
+    height: 250px;
+    background-image: url(images/presentacion-principal-del-bizcocho-de-mantequilla.jpg);
+    background-attachment: fixed;
+    padding-top: 109px;
+    background-color: #FFFFFF;	
+}
+
+
+
+.CUERPO .CABEZERA {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #FFD493;
+    float: right;
+}
+.MENU ul li a {
+    text-decoration: none;
+    color: #FFFFFF;
+    float: left;
+    font-size: medium;
+    margin-right: 20px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.CABEZERA .MENU ul {
+    float: right;
+    width: 100%;
+}
+
+.MENU ul li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+
+.CUERPO .pie.de.pagina {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #8C6B40;
+}
+.CUERPO .CABEZERA .slider {
+    width: 100%;
+    float: left;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+
+.CUERPO {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.CUERPO .contenido {
+    width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.CUERPO li .MENU {
+	    width: auto;
+	float: left;
+	margin-right: 20PX;
+	margin-bottom: 20PX;
+	margin-top: 30px;
+	text-decoration: none;
+    list-style-type: none;
+
+	
+}
+.LOGO img {
+	    width: auto;
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 30px;
+	
+}
